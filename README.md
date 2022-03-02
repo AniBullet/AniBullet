@@ -3,11 +3,11 @@
 ``` ✨ TECH OTAKUS SAVE THE WORLD ✨ ```  
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animatorbullet&layout=compact&theme=github_dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animatorbullet&layout=compact&theme=github_dark&hide_title=true)](https://github.com/AnimatorBullet?tab=repositories)
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=animatorbullet&repo=BsKeyTools&show_owner=true&theme=github_dark)](https://github.com/AnimatorBullet/BsKeyTools)
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=animatorbullet&show_icons=true&theme=github_dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![AnimatorBullet's GitHub stats](https://github-readme-stats.vercel.app/api?username=animatorbullet&show_icons=true&theme=github_dark&hide_title=true)](https://github.com/AnimatorBullet?tab=repositories)
 
 
 <!--
