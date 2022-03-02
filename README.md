@@ -4,7 +4,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animatorbullet&layout=compact&theme=radical&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=animatorbullet&repo=BsKeyTools&show_owner=true&theme=radical&hide_border=true)](https://github.com/AnimatorBullet/BsKeyTools)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=animatorbullet&show_icons=true&theme=radical&hide_title=true&hide_border=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=animatorbullet&show_icons=true&theme=radical&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
