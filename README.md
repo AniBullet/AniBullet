@@ -17,18 +17,7 @@
 
 <div align="center">
 
-### 加入社区
-
-[![Q群1](https://img.shields.io/badge/交流吹水群1-993590655-blue?style=flat-square&logo=Tencent-QQ)](https://jq.qq.com/?_wv=1027&k=hmeHhTwu)
-[![Q群2](https://img.shields.io/badge/交流吹水群2-907481113-blue?style=flat-square&logo=Tencent-QQ)](https://qm.qq.com/q/FZ2gBKJeYE)
-
-### 关注我
-
-[![所有社交链接](https://img.shields.io/badge/🔗_所有社交链接-bio.site-ff69b4?style=for-the-badge)](https://bio.site/aniBullet)
-
-[![公众号](https://img.shields.io/badge/微信公众号-@aniBullet-success?style=flat-square&logo=wechat)](https://www.anibullet.com/about/)
-[![GitHub followers](https://img.shields.io/github/followers/AniBullet?label=%E5%85%B3%E6%B3%A8&style=social)](https://github.com/AniBullet)
-[![Twitter](https://img.shields.io/twitter/follow/aniBulletCom?label=BulletS&style=social)](https://twitter.com/aniBulletCom)
+^ [![Q群1](https://img.shields.io/badge/技术动画-critical?style=flat-square&logo=Tencent-QQ)](https://qm.qq.com/q/RxbFJdR0wS) ^ [![Q群1](https://img.shields.io/badge/动画人1-blue?style=flat-square&logo=Tencent-QQ)](https://jq.qq.com/?_wv=1027&k=hmeHhTwu) ^ [![Q群2](https://img.shields.io/badge/动画人2-blue?style=flat-square&logo=Tencent-QQ)](https://qm.qq.com/q/FZ2gBKJeYE) ^ [![所有社交链接](https://img.shields.io/badge/🔗_ALL-bio.site-ff69b4?style=flat-square)](https://bio.site/aniBullet) ^ [![公众号](https://img.shields.io/badge/We-@aniBullet-success?style=flat-square&logo=wechat)](https://www.anibullet.com/about/) ^ [![Twitter](https://img.shields.io/twitter/follow/aniBulletCom?label=AniBullet&style=social)](https://x.com/aniBulletCom) ^ [![GitHub followers](https://img.shields.io/github/followers/AniBullet?label=%E5%85%B3%E6%B3%A8&style=social)](https://github.com/AniBullet) ^
 
 </div>
 
