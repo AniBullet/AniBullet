@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anibullet&layout=compact&theme=github_dark&hide_title=true)](https://github.com/AniBullet?tab=repositories)  
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=anibullet&repo=BsKeyTools&show_owner=true&theme=github_dark)](https://github.com/AniBullet/BsKeyTools)  
 [![AniBullet's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=anibullet&show_icons=true&theme=github_dark&hide_title=true)](https://github.com/AniBullet?tab=repositories)  
-[![profile-trophy](https://github-profile-trophy.vercel.app/?username=AniBullet&theme=dracula&row=1)](https://github-profile-trophy.vercel.app/?username=AniBullet&theme=dracula&row=1)  
+[![profile-trophy](https://gh-trophy.cdnsoft.net/?username=AniBullet&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)  
 
 </div>
 
